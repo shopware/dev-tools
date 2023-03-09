@@ -1,5 +1,6 @@
 {
     "name": "shopware/dev-tools",
+    "license": "MIT",
     "require": {
         "doctrine/sql-formatter": "^1.1",
         "fakerphp/faker": "^1.20",
