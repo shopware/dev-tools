@@ -5,6 +5,8 @@ This is a composer meta package containing development dependencies for Shopware
 - [web-profiler-bundle](https://github.com/symfony/web-profiler-bundle): Provides a web-based profiler for debugging and profiling Symfony applications.
 - [fakerphp/faker](https://github.com/FakerPHP/Faker): Faker and some extensions for Shopware demo data generation.
 - [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge): Provides integration for Doctrine with the Web Profiler bundle.
+- [symfony/browser-kit](https://github.com/symfony/browser-kit): Component to simulate the behavior of a web browser.
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit): Developer-oriented testing framework for PHP.
 
 ## Installation
 
@@ -14,7 +16,7 @@ You can install this package using composer:
 composer require --dev shopware/dev-tools
 ```
 
-Installing this package will install all of the development dependencies described in the composer.json file. You can then configure and use these packages in your Shopware project as needed.
+Installing this package will install all the development dependencies described in the composer.json file. You can then configure and use these packages in your Shopware project as needed.
 
 ## Contributing
 
